@@ -1,0 +1,80 @@
+,Name,Status,Cliente,Entrenadores,Primera Entrevista (Calendly),OS,Cliente Desde,Nutricion,Nutricionista,Nutrición Desde,Meses Nutri,Edad,Objetivo,Dias/semana actual,Dias/semana Sono,Alimentacion,Fitness Band,user_id
+0,Ana,Churned,,,,iOS,9/17/2020,,,9/17/2020,8.7,26.0,Mejorar rendimiento en un deporte,5-6,5-6 días,5.0,No tengo,recgxlRBB2s1z9n3K
+1,Borja,Churned,,Oscar,,iOS,9/17/2020,,,9/17/2020,8.7,29.0,Mejorar cardio y/o resistencia,1-2,2 días,4.0,Polar,recCjycZK9bi7Ccwt
+2,Angel,Churned,checked,Oscar,,iOS,9/22/2020,,,9/22/2020,8.5,20.0,Recuperarme de una lesión y/o reducir molestias,5-6,5-6 días,2.0,No tengo,recyvFsiSa7Cuy52q
+3,Jose,Usuario,checked,Oscar,,Android,9/28/2020,,,9/28/2020,8.3,31.0,Ganar masa muscular,3-4,3 días,3.0,Fitbit,rec6Ubu2IZDqaaBa6
+4,Yago,Churned,,Oscar,,,10/29/2020,,,10/29/2020,7.3,27.0,Ganar masa muscular,,2 días,,,recSJ51pjQ1mnvNGD
+5,Paula,Formulario,,,,,,,,,,23.0,Perder peso,1-2,4 días,3.0,Fitbit,recm4cPJb4lw7wj2N
+6,Costanza,Formulario,,,,,,,,,,24.0,Ganar masa muscular,1-2,2 días,4.0,No tengo,recAUdDxyUSO1bLj3
+7,Laura,Formulario,,,,,,,,,,34.0,Perder peso,5-6,5-6 días,2.0,Xiaomi Band,recWGR3yKJFpIvc5m
+8,Chus,Formulario,,,,,,,,,,49.0,Mejorar cardio y/o resistencia,1-2,2 días,4.0,Apple Watch,recgDuGIwa8Chm91O
+9,Omar,Formulario,,,,,,,,,,30.0,Ganar masa muscular,Más de 6,Todos los días,1.0,No tengo,recw1rf6L2tYGqzdt
+10,Karelia,Formulario,,,,,,,,,,39.0,Perder peso,3-4,3 días,2.0,No tengo,recTAIrplgNtPA1hN
+11,Willy,Formulario,,,,,,,,,,41.0,Perder peso,3-4,3 días,2.0,Xiaomi Band,rec33iSDOqeI238ZN
+12,Test,test,checked,Ken,,,,,,,,,,,,,,recRcPrT6PNOrNrhy
+13,Clara,Out,,,,,,,,,,18.0,Perder peso,,5-6 días,,,recGaSFIwGucswz7R
+14,Ignacio,Out,,Oscar,,,,,,,,26.0,Perder peso,,4 días,,,recqXvJAOw6Mzg7Xg
+15,Nona,Churned,,Miriam,,,11/15/2020,checked,Isa,11/16/2020,6.7,28.0,Perder peso,,3 días,,,rec8I1AxpRbS45p6B
+16,Macarena,Churned,,Miriam,,,,,,,,25.0,Perder peso,3-4,3 días,,,recbQRTAiZb0hUGDs
+17,Magdalena,Usuario,checked,Laura,,,11/12/2020,checked,Isa,11/13/2020,6.8,31.0,Perder peso,,3 días,,,recNRg7vGz4Atu0xm
+18,Andres,test,checked,Javier,,iOS,,,,,,,Ganar masa muscular,,3 días,,,rec4Yqa6OaM2aTkeG
+19,Alvaro,test,checked,Ken,,,11/26/2020,checked,Isa,11/26/2020,6.3,,Ganar masa muscular,,3 días,,,reckQ8tRgBXcowxvH
+20,Pablo,test,checked,Ken,,,,,,,,,Ganar masa muscular,,3 días,,,rect5nWBzL1wqG5HD
+21,Oscar,test,checked,Ken,,,,,,,,,Ganar masa muscular,,3 días,,,recF1sfghCUvKJ0y3
+22,Miriam,test,checked,Ken,,,,,,,,,Ganar masa muscular,,3 días,,,recnVeGMVy0YTgQu2
+23,Elena,Usuario,checked,Laura,,,,,,,,62.0,Ganar masa muscular,0 veces,3 días,,,recyh6pveGl76faFt
+24,Maru,Out,,Miriam,,,,,,,,37.0,Perder peso,,3 días,,,recNdn0AQ9vajZMVT
+25,Santiago,Usuario,checked,Oscar,,,11/26/2020,,Isa,11/26/2020,6.3,25.0,Ganar masa muscular,,3 días,,,recq3oyhV4IG48uDK
+26,Juan,Churned,checked,Javier,,,11/27/2020,checked,Isa,12/2/2020,6.1,24.0,Mejorar cardio y/o resistencia,,5-6 días,,,recXyq5XgjMwPKBqY
+27,Paulina,Out,,Miriam,,,12/15/2020,,,12/15/2020,5.7,19.0,Ganar masa muscular,3-4,4 días,,,recAGrywYSJrqzgIo
+28,Carmen,Out,,Miriam,,,,,,,,47.0,Perder peso,,4 días,,,recGXjYfSPSocfv0r
+29,Claudia,Churned,checked,Oscar,,,1/18/2021,,,,,19.0,Ganar masa muscular,3-4,4 días,,,recunJ5oVRbTp2omE
+30,Itziar,Churned,,Laura,,,1/12/2021,,,,,50.0,Una vida más activa,0 veces,4 días,,,recM9KND6xER41Gui
+31,Gui,Out,,Oscar,,,1/15/2021,,,,,37.0,Ganar masa muscular,,3 días,,,recjqZ8q00sJUWcol
+32,Lola,Churned,,Laura,,,1/19/2021,,,,,54.0,Perder peso,,3 días,,,reckC5c1XVLZROvwN
+33,Jacobo,Churned,,Javier,,,1/20/2021,,,,,31.0,Perder peso,,2 días,,,recTLLUITpIwuWc1D
+34,Erik,Usuario,checked,Javier,,,1/29/2021,,,,,27.0,Una vida más activa,,3 días,,,recREixZmUZ80qjs7
+35,JuanLuis,Churned,checked,Oscar,,,2/22/2021,,,,,28.0,Ganar masa muscular,,Todos los días,,,recluKPjUR7438N8X
+36,JavierM,test,checked,Ken,,,,,,,,,,,,,,recDzSQAtuW3y5tKQ
+37,Fran,test,checked,Ken,,iOS,1/28/2021,,,,,,Ganar masa muscular,,3 días,,,recA9vkL8XNAsrhDw
+38,LauraG,test,checked,Ken,,,2/12/2021,,,,,,,,,,,recagugLDfwYgXsEL
+39,Laura,Churned,checked,Laura,,,,,,,,36.0,Perder peso,,3 días,,,recltnZ6JoOwlIFUi
+40,Sonia,Churned,checked,Laura,2/24/2021,,,,,,,45.0,Ganar masa muscular,,4 días,,,recM8yVYe2vUPo38v
+41,Carla,Out,,Javier,2/25/2021,,,,,,,19.0,Perder peso,,5-6 días,,,recbgG0eFDhszhuzm
+42,Alberto,Usuario,checked,Javier,3/1/2021,Android,,,,,,48.0,Mejorar rendimiento en un deporte,,5-6 días,,,recmlsZE4zvFY0icv
+43,Benxa,Out,checked,Oscar,3/1/2021,Android,,,,,,25.0,Ganar masa muscular,,Todos los días,,,recKewS1Ac9lQzVGU
+44,Isi,Out,,Oscar,3/2/2021,iOS,,,,,,31.0,Ganar masa muscular,,4 días,,,recx8MpCcuBuByvXR
+45,Gaby,Out,,Laura,3/2/2021,,,,,,,31.0,Perder peso,,4 días,,,recHHLeFsNaDn2zvc
+46,Maribel,Out,,Oscar,3/3/2021,iOS,,,,,,22.0,Ganar masa muscular,,4 días,,,rec1BEsjXmC42wV6O
+47,Estefania,Out,,Laura,3/4/2021,,,,,,,32.0,Ganar masa muscular,,2 días,,,rec7iuXe9s5CxPnz7
+48,Bilal,Out,,Javier,,,,,,,,31.0,Una vida más activa,,,,,reccYpDwGHwUfS4LO
+49,Maria,Out,,Laura,,,,,,,,,,,,,,recYRDbY7JKrYWEdq
+50,Victor,Churned,checked,Oscar,3/9/2021,iOS,,,,,,,Ganar masa muscular,,,,,rectSvfeGZBV2KCWt
+51,Carolina,Out,,Laura,3/9/2021,,,,,,,31.0,Una vida más activa,,3 días,,,recLfTOBTndIcmZd0
+52,ElenaM,Usuario,checked,Laura,3/9/2021,,,,,,,44.0,Perder peso,,3 días,,,recQkoA09HV0b5g7j
+53,Pilar,Out,,Laura,3/9/2021,,,,,,,42.0,Perder peso,,3 días,,,recZBNj30CEgVGj3I
+54,MiriamG,Out,,Laura,3/10/2021,,,,,,,,,,,,,recSnlrihYQoiBH68
+55,Leticia Salmeron,Out,,Laura,3/15/2021,,,,,,,,,,,,,rec6x0qn6CjQhWShY
+56,fati,Churned,checked,Laura,3/16/2021,,,,,,,,,,,,,recEsgxLpt2JPZe35
+57,Maria dolores Martinez neria,Out,,Laura,3/16/2021,,,,,,,,,,,,,recLxEqxLc94RDiTl
+58,Layla,Churned,checked,Laura,3/16/2021,,,,,,,,,,,,,recSJkicyGHz1R5vL
+59,Toñi Avila,Out,checked,Javier,3/17/2021,,,,,,,,,,,,,recwcllJx2eTjfiLo
+60,AlfonsoP,Usuario,,Javier,3/17/2021,,,,,,,,,,,,,recj5C4BiZwzMND69
+61,PaulaG,Usuario,,Laura,3/18/2021,Android,,,,,,,,,,,,recf1NzEj9FKZbRi3
+62,Cristian,Out,checked,Laura,3/17/2021,,,,,,,,,,,,,recR3NNQWET0nz43M
+63,JaimeG,Usuario,checked,Oscar,3/23/2021,,,,,,,,,,,,,recEeNwKNZjAVTpHW
+64,Jeremmy,Out,checked,Oscar,3/23/2021,,,,,,,,,,,,,recls8DVKjfoe02mD
+65,JoseLuis ,Out,checked,Javier,3/26/2021,,,,,,,,,,,,,rec6GdDG8xU2qutRo
+66,Sheila,test,checked,Laura,4/15/2021,,,,,,,,,,,,,recMZ36eP7rryZdN3
+67,Alba,Out,checked,Laura,4/27/2021,,,,,,,,,,,,,recmarhKayB4SS0KC
+68,Natalia ,Out,checked,Oscar,4/19/2021,,,,,,,,,,,,,rec7TJeGx8vQn7HDD
+69,Leidy,Out,checked,Laura,4/20/2021,,,,,,,,,,,,,recQdISv8TxlM8fMb
+70,Ian Bermejo ,Out,checked,Oscar,4/26/2021,,,,,,,,,,,,,recL2pCLQs0Ghik5b
+71,JuanC,Usuario,checked,Laura,4/26/2021,,,,,,,,,,,,,recTfcjRX0Isk02pX
+72,Esther,Out,checked,Laura,4/27/2021,,,,,,,,,,,,,rec01Vj48XGRMQ9fm
+73,Oskar,Out,checked,Oscar,4/26/2021,,,,,,,,,,,,,recUKRU8R3hEdJPWp
+74,Matilde,Out,checked,Laura,4/26/2021,,,,,,,,,,,,,recNAWs2KK0yk5Ys0
+75,JoseM,Out,checked,Laura,4/28/2021,,,,,,,,,,,,,recWdL4QkNIyvxhWk
+76,Ana ,test,checked,Laura,4/28/2021,,,,,,,,,,,,,recROCBlV6KyUwCRW
+77,AnaG,Trial,checked,Laura,5/11/2021,,,,,,,,,,,,,recZWTJDLXEgaHDSo
+78,YAIZA ANIDO GARCÍA,Trial,checked,Laura,5/21/2021,,,,,,,,,,,,,recVrXEzWftingkIi
